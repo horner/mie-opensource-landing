@@ -12,6 +12,10 @@ This guide shows you how to set up a basic LXC container on the MIE Opensource P
 
 ## 1. Authenticate Your Proxmox Account
 
+```
+ssh create-container@opensource.mieweb.org
+```
+
 You'll be prompted for your credentials:
 
 ```
